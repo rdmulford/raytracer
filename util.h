@@ -1,0 +1,11 @@
+#ifndef UTIL_H
+#define UTIL_H
+
+#define INFINITE 1e6
+#define WIDTH 512
+#define HEIGHT 512
+#define TOTALPIXELS WIDTH*HEIGHT
+#define TOTALCOMPONENTS TOTALPIXELS * 3
+#define MAXDEPTH 10
+
+#endif
